@@ -1,0 +1,16 @@
+{
+  "source": [
+    "index.html"
+  ],
+  "dependencies": {
+    "remeda": "^1.28.0",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.10.1",
+    "@types/three": "^0.158.1",
+    "parcel": "^2.10.1",
+    "parcel-reporter-static-files-copy": "^1.5.3",
+    "typescript": "^5.2.2"
+  }
+}
